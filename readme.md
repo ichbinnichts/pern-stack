@@ -27,5 +27,8 @@ deleted tests
 created components folder and files
 
 //Setting up environment to client with bootstrap //copying the css in the /public/index.html in the stylesheet and 
-copying the js in the script
-link to bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+copying the js in the script.
+Link to bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+//start client side inside the client package with $npm start 
+//build with $npm run build
