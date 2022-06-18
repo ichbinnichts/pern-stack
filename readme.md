@@ -4,3 +4,7 @@ This is a to-do list to improve my knowledge in full stack web develpment
 ref: https://www.youtube.com/watch?v=ldYcgPKEZC8
 
 ### NOTES TO MYSELF ###
+
+//codes used inside server package
+
+$npm init       $npm i express pg cors      
