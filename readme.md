@@ -11,4 +11,4 @@ $npm init
 $npm i express pg cors
 $nodemon "name"      
 
-//the content of the database was created and now ill connect my database with the server
+//the index.js/db.js/database.sql are the backend
