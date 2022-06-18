@@ -28,4 +28,4 @@ created components folder and files
 
 //Setting up environment to client with bootstrap //copying the css in the /public/index.html in the stylesheet and 
 copying the js in the script
-https://getbootstrap.com/docs/4.0/getting-started/introduction/
+link to bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/
