@@ -8,4 +8,4 @@ const pool = new Pool({
     database: "perntodo"
 });
 
-module.exports = Pool;
+module.exports = pool;

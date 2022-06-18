@@ -7,6 +7,8 @@ ref: https://www.youtube.com/watch?v=ldYcgPKEZC8
 
 //codes used inside server package
 
-$npm init       $npm i express pg cors      
+$npm init       
+$npm i express pg cors
+$nodemon "name"      
 
 //the content of the database was created and now ill connect my database with the server
