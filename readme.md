@@ -18,7 +18,7 @@ ref: https://www.youtube.com/watch?v=ldYcgPKEZC8
 //Node.js
 
 ### HOW TO START THE PROJECT ###
-//First go to your psql and create a database with a "database_name"(any name you want), and create a table "todo"(this has to be this name because of the code), after this you have to go to db.js and configure your database. Now just go to the folder /server and run the code $node index.js. To start client side go to the folder /client and run the code npm start
+//First go to your psql and create a database with a "database_name"(any name you want), and create a table "todo"(this has to be this name because of the code), after this you have to go to db.js and configure your database. Now just go to the folder /server and run the code $node index.js. To start client side go to the folder /client and run the code $npm start
 ### NOTES TO MYSELF ###
 
 //codes used inside server package
