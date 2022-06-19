@@ -30,5 +30,7 @@ created components folder and files
 copying the js in the script.
 Link to bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
+
+//if you dont have the dependencies run $npm install
 //start client side inside the client package with $npm start 
 //build with $npm run build
