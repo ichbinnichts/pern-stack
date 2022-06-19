@@ -30,6 +30,7 @@ created components folder and files
 copying the js in the script.
 Link to bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
+//Link used to get modals, bootstrap codes #https://www.w3schools.com
 
 //if you dont have the dependencies run $npm install
 //start client side inside the client package with $npm start 
